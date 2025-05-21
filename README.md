@@ -12,7 +12,7 @@
 
 1. Клонувати проєкт:
     ```bash
-    git clone https://github.com/DIRBLOCK9/Course.OOP.git
+    https://github.com/DIRBLOCK9/Chat-bot-user-support.git
     ```
 
 2. Відкрити `PrinterCatalogConsole.sln` у **Visual Studio 2022**
