@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Type": "Laser",
+    "Code": 1001,
+    "Model": "HP LaserJet M15a",
+    "Brand": "HP",
+    "Purpose": "Для студентiв",
+    "MaxPrintSize": "A4",
+    "Price": 16000
+  },
+  {
+    "Type": "Inkjet",
+    "Code": 1002,
+    "Model": "Epson L3150",
+    "Brand": "Epson",
+    "Purpose": "Для дому",
+    "MaxPrintSize": "A4",
+    "Duplex": true,
+    "Price": 8000
+  }
+]
+
